@@ -1,6 +1,7 @@
 # Ticket Booking App 🎟️
 
 Aplikasi sederhana berbasis **Jetpack Compose** untuk simulasi pemesanan tiket.  
+
 Pengguna dapat melihat harga tiket, mengatur jumlah tiket yang ingin dipesan, melihat total pembayaran secara otomatis, dan mengembalikan jumlah tiket ke kondisi awal.
 
 ## Deskripsi
